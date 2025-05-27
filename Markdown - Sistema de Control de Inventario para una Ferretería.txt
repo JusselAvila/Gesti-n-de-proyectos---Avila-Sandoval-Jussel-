@@ -1,0 +1,22 @@
+# Caso 3: Sistema de Control de Inventario para una Ferretería
+## Introducción
+Una ferretería local con varias sucursales desea automatizar y centralizar el control de su inventario de productos, ya que actualmente utilizan hojas de cálculo distintas por sucursal, lo cual complica la gestión general.
+
+## Problemática
+
+- Dificultad para conocer el stock real en tiempo real.
+- Problemas de sobrestock o falta de productos sin aviso previo.
+- Errores frecuentes en las ventas por información desactualizada.
+- No hay trazabilidad de movimientos entre almacenes o sucursales.
+
+## Objetivo General
+
+Desarrollar un sistema web de control de inventarios que permita gestionar productos, entradas, salidas, traspasos y alertas, con una vista consolidada para todas las sucursales de la ferretería.
+
+### Objetivos Específicos Medibles
+
+1.  Reducir en un 80% la ocurrencia de sobrestock o falta de productos en un plazo de seis meses después de la implementación del sistema, mediante la configuración de alertas de stock mínimo.
+2.  Disminuir en un 95% los errores en las ventas relacionados con información de inventario desactualizada dentro de los primeros tres meses de uso del sistema.
+3.  Centralizar el 100% de la información de inventario de todas las sucursales en una base de datos única, completando la migración de datos existentes en los primeros nueve meses de operación del sistema.
+
+
